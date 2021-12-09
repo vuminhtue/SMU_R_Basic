@@ -153,7 +153,7 @@ Now let's read in some csv file.
 The data is related to number of covid case in USA counted on Jan 1st, 2021. I have uploaded it to my account and opened access for everyone:
 
 ```python
-df = pd.read_csv('https://raw.githubusercontent.com/vuminhtue/SMU_Python_Basic/master/data/1-1-21%20US%20covid19.csv?token=AKOSZNMYYTK3YJJG2WS4CITBWD4M2')
+df = pd.read_csv('https://raw.githubusercontent.com/vuminhtue/SMU_Python_Basic/master/data/1-1-21%20US%20covid19.csv')
 df.head()
 ```
 
