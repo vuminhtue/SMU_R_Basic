@@ -1,6 +1,6 @@
-# Programming with R: Basic & Advanced
+# Programming with Python: Basic 
 
-This is the workshop I conduct at Clemson University for CITI's workshop series for every semester.
+This is the workshop I conduct at Southern Methodist University to introduce basic python course
 
 This repository generates the corresponding course website based on the original templates
 from [The Carpentries](https://carpentries.org/).
@@ -10,11 +10,12 @@ from [The Carpentries](https://carpentries.org/).
 * Tue M Vu
 
 ## Authors
+
 ```
-Tue M. Vu, Ph.D. 
-Senior HPC Research Facilitator,
-Advanced Computing and Data Science,
-CyberInfrastructure and Technology Integration (CCIT/CITI)
-Research Assistant Professor, Glenn Department of Civil Engineering
-2119 Barre Hall, Clemson University
+Tue Vu, PhD
+AI & ML Research Scientist
+tuev@smu.edu
+Gerald J. Ford Hall 119
 ```
+![image](https://user-images.githubusercontent.com/43855029/146046594-ce56e160-de3b-4903-ad14-7d7355371803.png)
+
