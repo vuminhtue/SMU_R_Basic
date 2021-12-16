@@ -5,7 +5,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 > ## Instructor
-> - **Instructor**: Tue Vu
+> - **Instructor**: Tue Vu, PhD
 > - **Office**: 119 Gerald Ford Hall, Southern Methodist University
 > - **Email**: tuev@smu.edu
 
