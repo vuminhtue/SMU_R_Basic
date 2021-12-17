@@ -38,8 +38,8 @@ Make sure that you loaded R but not in R environment. Assume that you have an R 
 There are 2 ways to run an R script:
 
 ```bash
-$ Rscript a.R
-$ R CMD BATCH a.R
+$ Rscript hello.R
+$ R CMD BATCH hello.R
 ```
 
 The latter method using **R CMD BATCH** will write the separate output file to your working directory
