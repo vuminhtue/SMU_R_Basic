@@ -12,7 +12,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 {: .prereq}
 
 > ## Workshop Description
-> Introduction to Python programming language for data analytics using Jupyer Hub  hosted via Open OnDemand in Mane Frame M2 cluster at SMU. Workshop contents include basic understand of Python, installation of additional python packages, introduction to data manipulation, introduction to visualization, and several best practices for using Python. No prior knowledge of Python or programming in general is required. 
+> Introduction to R programming language for data analytics using Rstudio hosted on Open OnDemand in Mane Frame M2 cluster at SMU. Workshop contents include basic understand of R, installation of additional R packages, introduction to data manipulation, introduction to visualization, and several best practices for using R. No prior knowledge of R or programming in general is required. 
 >
 {: .prereq}
 
