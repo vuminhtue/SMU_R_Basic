@@ -1,6 +1,6 @@
-# Programming with Python: Basic 
+# Programming with R: Basic 
 
-This is the workshop I conduct at Southern Methodist University to introduce basic python course
+This is the material for Southern Methodist University's student, to learn the Introductory R programming language 
 
 This repository generates the corresponding course website based on the original templates
 from [The Carpentries](https://carpentries.org/).
