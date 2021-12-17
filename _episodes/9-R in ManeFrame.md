@@ -20,7 +20,7 @@ Request a compute node if you do not have one (here I request for a node with 6 
 $ srun -p htc -N 1 -c 6 --mem=16G --pty $SHELL
 ```
 
-Load python module
+Load R module
 
 ```bash
 $ module load r/3.6.2
@@ -49,7 +49,7 @@ Now you are ready with the R pipeline running on ManeFrame
 ## Prepare a simple script (skip if you already have one)
 Here I create a simple R script with following information and named it **hello.R**
 
-```python
+```r
 rm(list=ls())
 setwd('/user/tuev')
 print('welcome to R in ManeFrame')
@@ -83,7 +83,7 @@ $ module load r/3.6.2
 $ R CMD BATCH hello.R
 ```
 
-## Running non-interactive Python while in a login node using sbatch
+## Running non-interactive R while in a login node using sbatch
 Still in a login node, using **sbatch --wrap** to wrap a command in an sbatch script, then submitted to the queue to run in batch mode (non interactive)
 
 ```bash
@@ -93,7 +93,7 @@ $ sbatch -p htc --mem=6G --wrap "module load r/3.6.2; time R CMD BATCH hello.R"
 You will find the output in the same folder with the format of **slurm-$JobID.out**.
 
 
-## Running non-interactive Python while in a login node via a batch script (most advance)
+## Running non-interactive R while in a login node via a batch script (most advance)
 First create a batch script named _**myR_batch.sh**_
 
 ```bash
